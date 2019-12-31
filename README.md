@@ -150,6 +150,10 @@ Table of Contents
 
 ## Vulnerabilities
 
+
+
+----------------------------what
+
    * http://cve.mitre.org/ - Common Vulnerabilities and Exposures. The Standard for Information Security Vulnerability Names
    * https://www.exploit-db.com/ - The Exploit Database – ultimate archive of Exploits, Shellcode, and Security Papers.
    * http://0day.today/ - Inj3ct0r is the ultimate database of exploits and vulnerabilities and a great resource for vulnerability researchers and security professionals.
